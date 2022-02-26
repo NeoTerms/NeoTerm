@@ -1,2 +1,3 @@
-# NeoTerm
-NeoTerm - A Terminal Emulator Application For Android OS Extendible By Variety Of Packages.
+# NeoTerm -  Android Application
+<a href="https://neoterm.org">NeoTerm</a> - Is An Android Terminal Application And Linux Environment.
+* Coming Soon
